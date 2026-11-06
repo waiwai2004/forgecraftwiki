@@ -1,0 +1,11 @@
+{
+  "name": "forgecraft-wiki-publish",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "build": "sh build.sh"
+  }
+}
